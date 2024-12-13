@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		178200572D06FC7D0032BBB8 /* SleepSounds */ = {
+		177F46412D0C5BDF00CB1831 /* SleepSounds */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = SleepSounds;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		1782004C2D06FC7D0032BBB8 = {
 			isa = PBXGroup;
 			children = (
-				178200572D06FC7D0032BBB8 /* SleepSounds */,
+				177F46412D0C5BDF00CB1831 /* SleepSounds */,
 				178200562D06FC7D0032BBB8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				178200572D06FC7D0032BBB8 /* SleepSounds */,
+				177F46412D0C5BDF00CB1831 /* SleepSounds */,
 			);
 			name = SleepSounds;
 			packageProductDependencies = (
